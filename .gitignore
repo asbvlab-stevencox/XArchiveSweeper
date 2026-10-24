@@ -12,3 +12,4 @@ tweets*.js
 data/
 *.csv
 !tests/fixtures/*.csv
+!tests/fixtures/tweets.js
