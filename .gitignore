@@ -1,0 +1,14 @@
+.env
+.xsweeper_token.json
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# never commit archive data
+*.zip
+tweets*.js
+data/
+*.csv
+!tests/fixtures/*.csv
